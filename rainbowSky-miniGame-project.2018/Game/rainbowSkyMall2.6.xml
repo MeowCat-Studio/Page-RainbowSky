@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Malles>
+            <!--
+       结构:商城→商店→商品
+             shop_id 商店类型新手商店,小卖部 shop_name商店名称 后续开放等级,描述部分
+             commodity_ id道具序号 commodity_consume:消耗货币 describe道具描述
+      -->
+       <shop id="1" name="新手商店" lve="1" describe="非常的石灰">
+          <Panel>
+            <commodity id="rx000000" consume="0" describe="欧皇礼包" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">礼包</commodity>
+            <commodity id="rx000001" consume="0" describe="秒变非酋" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
+            <commodity id="rx000002" consume="0" describe="升级卡" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000003" consume="0" describe="回血药水" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">回血999999</commodity>
+            <commodity id="rx000004" consume="0" describe="别人家的猫" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">被卖了</commodity>
+            <commodity id="rx000005" consume="0" describe="SSSSSS敲蒜锤锤" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">勉勉强强能打得过0.1级非酋大蒜</commodity>
+            <commodity id="rx000006" consume="9.9" describe="神级大蒜" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">神力大蒜一只赛过原子弹</commodity>
+            <commodity id="rx000007" consume="9999" describe="SSSSSS大蒜" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">掺了金坷垃的大蒜</commodity>
+            <commodity id="rx666666" consume="100" describe="这是一刀999的顶级神器100%秒杀!" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif"></commodity>
+          </Panel>
+          <Panel>
+            <commodity id="rx000008" consume="150" describe="滑稽1" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
+            <commodity id="rx000009" consume="250" describe="滑稽2" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000010" consume="350" describe="滑稽3" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
+            <commodity id="rx000011" consume="450" describe="滑稽4" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000012" consume="550" describe="滑稽5" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
+            <commodity id="rx000013" consume="650" describe="滑稽6" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000014" consume="750" describe="咸魚" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
+            <commodity id="rx000015" consume="6666" describe="一包咸菜" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx686868" consume="999" describe="直接通关" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>                       
+            </Panel>
+       </shop>
+</Malles>
